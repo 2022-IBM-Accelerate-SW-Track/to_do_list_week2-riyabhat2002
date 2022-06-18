@@ -37,6 +37,19 @@
 }
 
 .profile_image {
-  width: 500px;
-  height: auto;
+  width: 400px;
+  height: 550px;
+}
+
+.my_text
+{
+    font-family: "Lucida Sans";
+    font-size:      25px;
+   
+}
+.mya_text
+{
+    font-family: "Lucida Sans"; 
+    font-size:      30px;
+    font-weight: bold;
 }
